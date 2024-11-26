@@ -10,7 +10,7 @@
 
 **When We Were Birds** by Ayanna Lloyd Banwo &nbsp; \| &nbsp; *novel*  
 
-<img src="./images/when-we-were-birds.jpg" alt="When we were birds" width="100" height="140">  
+<img src="./images/when-we-were-birds.jpg" alt="when we were birds" width="100" height="140">  
 
 &#8594; [goodreads link](https://www.goodreads.com/book/show/58065031-when-we-were-birds)  
 
@@ -19,18 +19,18 @@
 
 **A Sun to Be Sewn** by Jean D'amérique &nbsp; \| &nbsp; *novel*    
 
-<img src="./images/a-sun-to-be-sewn.jpg" alt="A sun to be sewn" width="100" height="140">  
+<img src="./images/a-sun-to-be-sewn.jpg" alt="a sun to be sewn" width="100" height="140">  
 
 &#8594; [goodreads link](https://www.goodreads.com/book/show/63990077-a-sun-to-be-sewn?from_search=true&from_srp=true&qid=In2T1jVV8w&rank=1)  
 
 <br>
 <br>  
 
-**Dust Child** by Nguyễn Phan Quế Mai  &nbsp; \| &nbsp; *novel*  
+**Reinbou** by Pedro Cabiya  &nbsp; \| &nbsp; *novel*  
 
-<img src="./images/dust-child.jpeg" alt="dust child" width="100" height="140">  
+<img src="./images/reinbou.jpg" alt="reinbou" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/60831918-dust-child?from_search=true&from_srp=true&qid=E8IXl0zd3x&rank=1)  
+&#8594; [goodreads link](https://www.goodreads.com/book/show/176729878-reinbou)  
 
 <br>
 <br>  
