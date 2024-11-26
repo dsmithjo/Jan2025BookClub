@@ -4,7 +4,7 @@
 <br />
 
 ## Titles  
-> A list of 6 novels from Caribbean literature  
+> A list of 5 novels from Caribbean literature  
 
 <br>  
 
@@ -44,11 +44,11 @@
 <br>
 <br>
 
-**River Sing Me Home** by Eleanor Shearer &nbsp; \| &nbsp; *novel*     
+**How the One-Armed Sister Sweeps Her House** by Cherie Jones &nbsp; \| &nbsp; *novel*     
 
-<img src="./images/river-sing-me-home.jpg" alt="river sing me home" width="100" height="140">  
+<img src="./images/one-armed-sister-sweeps.jpg" alt="one-armed-sister-sweeps" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/61111298-river-sing-me-home)     
+&#8594; [goodreads link](https://www.goodreads.com/book/show/53369488-how-the-one-armed-sister-sweeps-her-house)     
 
 <br />  
   
