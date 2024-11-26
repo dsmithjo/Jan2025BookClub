@@ -1,5 +1,5 @@
 
-# 📚 &nbsp; October 2023
+# 📚 &nbsp; January 2025
 
 <br />
 
@@ -8,7 +8,7 @@
 
 <br>  
 
-**When we were birds** by Ayanna Lloyd Banwo &nbsp; \| &nbsp; *novel*  
+**When We Were Birds** by Ayanna Lloyd Banwo &nbsp; \| &nbsp; *novel*  
 
 <img src="./images/when-we-were-birds.jpg" alt="When we were birds" width="100" height="140">  
 
@@ -17,11 +17,11 @@
 <br>
 <br>
 
-**The Seven Moons of Maali Almeida** by Shehan Karunatilaka &nbsp; \| &nbsp; *novel*    
+**A Sun to Be Sewn** by Jean D'amérique &nbsp; \| &nbsp; *novel*    
 
-<img src="./images/seven-moons.jpeg" alt="seven moons of maali almeida" width="100" height="140">  
+<img src="./images/a-sun-to-be-sewn.jpg" alt="A sun to be sewn" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/57224204-the-seven-moons-of-maali-almeida?ref=nav_sb_ss_1_11)  
+&#8594; [goodreads link](https://www.goodreads.com/book/show/63990077-a-sun-to-be-sewn?from_search=true&from_srp=true&qid=In2T1jVV8w&rank=1)  
 
 <br>
 <br>  
