@@ -8,11 +8,11 @@
 
 <br>  
 
-**Banyan Moon** by Thao Thai &nbsp; \| &nbsp; *novel*  
+**When we were birds** by Ayanna Lloyd Banwo &nbsp; \| &nbsp; *novel*  
 
 <img src="./images/banyan-moon.jpeg" alt="banyan moon" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/62800971-banyan-moon?ref=nav_sb_ss_1_10)  
+&#8594; [goodreads link](https://www.goodreads.com/book/show/58065031-when-we-were-birds)  
 
 <br>
 <br>
