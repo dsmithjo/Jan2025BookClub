@@ -53,11 +53,11 @@
 <br>
 <br>
 
-**Tomorrow in Shanghai** by May-lee Chai &nbsp; \| &nbsp; *short story collection*     
+**River Sing Me Home** by Eleanor Shearer &nbsp; \| &nbsp; *novel*     
 
-<img src="./images/tomorrow-shanghai.jpeg" alt="tomorrow in shanghai" width="100" height="140">  
+<img src="./images/river-sing-me-home.jpeg" alt="river sing me home" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/58722207-tomorrow-in-shanghai)     
+&#8594; [goodreads link](https://www.goodreads.com/book/show/61111298-river-sing-me-home)     
 
 <br />  
   
