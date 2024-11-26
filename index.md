@@ -10,7 +10,7 @@
 
 **When we were birds** by Ayanna Lloyd Banwo &nbsp; \| &nbsp; *novel*  
 
-<img src="./images/banyan-moon.jpeg" alt="banyan moon" width="100" height="140">  
+<img src="./images/when-we-were-birds.jpg" alt="When we were birds" width="100" height="140">  
 
 &#8594; [goodreads link](https://www.goodreads.com/book/show/58065031-when-we-were-birds)  
 
