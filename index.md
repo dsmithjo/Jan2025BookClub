@@ -4,7 +4,7 @@
 <br />
 
 ## Titles  
-> A list of 5 novels from Caribbean literature  
+> A collection of Caribbean fiction 
 
 <br>  
 
