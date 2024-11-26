@@ -4,7 +4,7 @@
 <br />
 
 ## Titles  
-> A list of 6 novels and short story collections  
+> A list of 6 novels from Caribbean literature  
 
 <br>  
 
