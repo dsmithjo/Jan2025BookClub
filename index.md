@@ -50,6 +50,15 @@
 
 &#8594; [goodreads link](https://www.goodreads.com/book/show/53369488-how-the-one-armed-sister-sweeps-her-house)     
 
+<br>
+<br>
+
+**The House of Plain Truth** by Donna Hemans &nbsp; \| &nbsp; *novel*      
+
+<img src="./images/house-plain-truth.jpg" alt="house plain truth" width="100" height="140">  
+
+&#8594; [goodreads link](https://www.goodreads.com/book/show/123087280-the-house-of-plain-truth)  
+
 <br />  
   
 <br />  
