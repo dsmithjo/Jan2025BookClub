@@ -35,11 +35,11 @@
 <br>
 <br>  
 
-**Beasts of a Little Land** by Juhea Kim  &nbsp; \| &nbsp; *novel*   
+**The Islands** by Dionne Irving  &nbsp; \| &nbsp; *short stories*   
 
-<img src="./images/beasts-little-land.jpeg" alt="beasts of a little land" width="100" height="140">  
+<img src="./images/the-islands.jpeg" alt="the islands" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/en/book/show/57151981)  
+&#8594; [goodreads link](https://www.goodreads.com/book/show/60679371-the-islands?from_search=true&from_srp=true&qid=dBUaBZHcy4&rank=1)  
 
 <br>
 <br>
