@@ -21,7 +21,7 @@
 
 <img src="./images/a-sun-to-be-sewn.jpg" alt="a sun to be sewn" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/63990077-a-sun-to-be-sewn?from_search=true&from_srp=true&qid=In2T1jVV8w&rank=1)  
+&#8594; [goodreads link](https://www.goodreads.com/book/show/63990077-a-sun-to-be-sewn)  
 
 <br>
 <br>  
@@ -35,20 +35,20 @@
 <br>
 <br>  
 
-**The Islands** by Dionne Irving  &nbsp; \| &nbsp; *short stories*   
+**If I Survive You** by Jonathan Escoffery  &nbsp; \| &nbsp; *novel*   
 
-<img src="./images/the-islands.jpeg" alt="the islands" width="100" height="140">  
+<img src="./images/if-i-survive-you.jpeg" alt="if i survive you" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/60679371-the-islands?from_search=true&from_srp=true&qid=dBUaBZHcy4&rank=1)  
+&#8594; [goodreads link](https://www.goodreads.com/book/show/59808611-if-i-survive-you)  
 
 <br>
 <br>
 
-**Bliss Montage** by Ling Ma &nbsp; \| &nbsp; *short story collection*      
+**Hungry Ghosts** by Kevin Jared Hosein &nbsp; \| &nbsp; *novel*      
 
-<img src="./images/bliss-montage.jpeg" alt="bliss montage" width="100" height="140">  
+<img src="./images/hungry-ghosts.jpeg" alt="hungry ghosts" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/60243188-bliss-montage?ref=nav_sb_ss_5_5)  
+&#8594; [goodreads link](https://www.goodreads.com/book/show/61109596-hungry-ghosts)  
 
 <br>
 <br>
